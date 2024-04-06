@@ -14,7 +14,9 @@ L'association dispose de plusieurs imprimantes 3D :
 
 ### Modèles 3D
 
- * [printables.com](https://www.printables.com/fr/model)
+ * [Cults3D](https://cults3d.com/fr)
+ * [Printables](https://www.printables.com/fr/model)
+ * [Thingiverse](https://www.thingiverse.com)
 
 ## Impression résine
  
