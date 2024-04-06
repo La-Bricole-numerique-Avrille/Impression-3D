@@ -7,6 +7,7 @@ L'association dispose de plusieurs imprimantes 3D :
  * [Dagoma DiscoEasy200](https://www.dagoma3d.com/imprimante-3d-disco-dagoma)
 
 ### Logiciel de tranchage (Slicer)
+
  *  [PrusaSlicer](https://www.prusa3d.com/fr/page/prusaslicer_424/) est un outil open-source, riche en fonctionnalités et fréquemment mis à jour, qui contient tout ce dont vous avez besoin pour exporter les fichiers d'impression parfaits pour votre imprimante 3D
 
 ### Guides
@@ -21,3 +22,7 @@ L'association dispose de plusieurs imprimantes 3D :
 ## Impression résine
  
  * Imprimante 3D Résine [ELEGOO Mars 2](https://www.elegoo.com/en-fr/products/elegoo-mars-2-mono-lcd-3d-printer)
+
+### Logiciel de tranchage (Slicer)
+
+ * [Chitubox](https://www.chitubox.com/en/download/chitubox-free)
