@@ -12,6 +12,10 @@ L'association dispose de plusieurs imprimantes 3D :
 ### Guides
  * [Les bases de l'impression 3D avec Josef Prusa](https://www.prusa3d.com/fr/page/les-bases-de-limpression-3d-avec-josef-prusa_490/)
 
+### Modèles 3D
+
+ * [printables.com](https://www.printables.com/fr/model)
+
 ## Impression résine
  
  * Imprimante 3D Résine [ELEGOO Mars 2](https://www.elegoo.com/en-fr/products/elegoo-mars-2-mono-lcd-3d-printer)
