@@ -4,7 +4,7 @@
 
 L'association dispose de plusieurs imprimantes 3D
  * [Creality Ender 3 V2](https://www.creality.com/fr/products/ender-3-v2-3d-printer-csco?spm=..page_2437713.products_display_1.1&spm_prev=..index.header_1.1)
- * [Dagoma Disco Easy](https://www.dagoma3d.com/imprimante-3d-disco-dagoma)
+ * [Dagoma DiscoEasy200](https://www.dagoma3d.com/imprimante-3d-disco-dagoma)
 
 
 
