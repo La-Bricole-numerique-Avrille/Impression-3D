@@ -11,4 +11,4 @@ L'association dispose de plusieurs imprimantes 3D
 
 ## Impression résine
  
- * Imprimantes 3D Résine Elegoo
+ * Imprimante 3D Résine [ELEGOO Mars 2](https://www.elegoo.com/en-fr/products/elegoo-mars-2-mono-lcd-3d-printer)
