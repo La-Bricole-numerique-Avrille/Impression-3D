@@ -1,7 +1,4 @@
 # Impression 3D
-![image](https://github.com/La-Bricole-numerique-Avrille/Impression-3D/assets/152775900/d1a4913f-42fa-4a6b-ae37-6ecea053a024)
-
-![image](https://github.com/La-Bricole-numerique-Avrille/Impression-3D/assets/152775900/700b4aeb-f21b-4bdd-9cd7-a790834cf34d)
 
 ## Impression filament
 
