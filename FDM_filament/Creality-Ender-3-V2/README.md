@@ -22,3 +22,7 @@ Un tiroir pour placer vos pièces de rechange et accessoires
 
 ## Réglage de l'axe Z
 
+## Kits d'amélorations
+
+ * [Best Creality Ender 3 (V2/Pro/Max/Neo) Upgrades & Mods](https://all3dp.com/1/20-must-creality-ender-3-upgrades-mods/)
+ * [Flexible PEI Build Plate For Ender 3 V2](https://www.creality3dofficial.com/products/upgraded-flexible-pei-heated-bed-for-ender-3pro-ender-5pro-ender-3-v2) : Plateau magnétique
