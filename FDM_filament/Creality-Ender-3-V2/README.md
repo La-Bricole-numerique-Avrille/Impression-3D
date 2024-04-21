@@ -30,11 +30,14 @@ Un tiroir pour placer vos pièces de rechange et accessoires
 
  * [Creality Ender 3 v2 dual z axis upgrade install](https://www.youtube.com/watch?v=gTVP3hL3zvU)
 
- ### Double extrudeurs
+### Double extrudeurs
  
  * [Ender 3 à double extrudeurs](https://www.youtube.com/watch?v=fVF3f2kPgZM)
  * [AJOUTER LA DOUBLE EXTRUSION A SON IMPRIMANTE 3D](https://www.youtube.com/watch?v=yrZ4T2xQLgo)
 
+### Nivellement automatique
+
+ * [Creality CR-Touch - Installation et test](https://www.youtube.com/watch?v=8ot5Zq1EAx8)
 
 ### Plateau magnétique
 
