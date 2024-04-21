@@ -32,6 +32,10 @@ Un tiroir pour placer vos pièces de rechange et accessoires
 
  * [Creality Ender 3 v2 dual z axis upgrade install](https://www.youtube.com/watch?v=gTVP3hL3zvU)
 
+### Extrudeur Aluminium
+
+ * [Creality Official Ender 3 Extruder Upgrade Metal](https://www.aliexpress.com/item/1005006120491253.html): Kit Extrudeur Aluminium
+
 ### Double extrudeurs
  
  * [Ender 3 à double extrudeurs](https://www.youtube.com/watch?v=fVF3f2kPgZM)
