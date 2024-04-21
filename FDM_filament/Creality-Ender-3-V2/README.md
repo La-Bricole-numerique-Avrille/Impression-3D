@@ -46,3 +46,6 @@ Un tiroir pour placer vos pièces de rechange et accessoires
 
  * [Flexible PEI Build Plate For Ender 3 V2](https://www.creality3dofficial.com/products/upgraded-flexible-pei-heated-bed-for-ender-3pro-ender-5pro-ender-3-v2)
 
+## Pièces détachées
+
+ * [3djake Pièces détachées Creality Ender 3 V2](https://www.3djake.fr/creality-3d?&f%5B65%5D=1158)
