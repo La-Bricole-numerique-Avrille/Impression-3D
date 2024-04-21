@@ -22,6 +22,8 @@ Un tiroir pour placer vos pièces de rechange et accessoires
 
 ## Réglage de l'axe Z
 
+ * [Montage et réglages Ender3V2](https://www.youtube.com/watch?v=MKBW-QHi4HE)
+
 ## Kits d'amélorations
 
  * [Best Creality Ender 3 (V2/Pro/Max/Neo) Upgrades & Mods](https://all3dp.com/1/20-must-creality-ender-3-upgrades-mods/)
