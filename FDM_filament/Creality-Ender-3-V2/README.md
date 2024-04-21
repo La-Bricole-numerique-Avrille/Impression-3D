@@ -35,7 +35,7 @@ Un tiroir pour placer vos pièces de rechange et accessoires
 ### Double extrudeurs
  
  * [Ender 3 à double extrudeurs](https://www.youtube.com/watch?v=fVF3f2kPgZM)
- * [AJOUTER LA DOUBLE EXTRUSION A SON IMPRIMANTE 3D](https://www.youtube.com/watch?v=yrZ4T2xQLgo)
+ * [Ajouter la double extrusion à son imprimante 3D](https://www.youtube.com/watch?v=yrZ4T2xQLgo)
 
 ### Nivellement automatique
 
