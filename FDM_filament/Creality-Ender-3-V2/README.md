@@ -31,4 +31,6 @@ Un tiroir pour placer vos pièces de rechange et accessoires
  * [Flexible PEI Build Plate For Ender 3 V2](https://www.creality3dofficial.com/products/upgraded-flexible-pei-heated-bed-for-ender-3pro-ender-5pro-ender-3-v2)
 
  ### Double extrudeurs
+ 
  * [Ender 3 à double extrudeurs](https://www.youtube.com/watch?v=fVF3f2kPgZM)
+ * [AJOUTER LA DOUBLE EXTRUSION A SON IMPRIMANTE 3D](https://www.youtube.com/watch?v=yrZ4T2xQLgo)
