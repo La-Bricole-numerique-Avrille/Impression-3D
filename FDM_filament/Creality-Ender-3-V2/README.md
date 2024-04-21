@@ -1,6 +1,6 @@
 # Imprimante Creality 3D Ender-3 V2
 
-Elle a été mise sur le marché en mai 2020. Tout en métal, comme les autres modèles, elle propose un volume d'impression de 22 x 22 x 25 cm.
+La [Creality 3D Ender-3 V2](https://www.creality.com/fr/products/ender-3-v2-3d-printer-csco) a été mise sur le marché en mai 2020. Tout en métal, comme les autres modèles, elle propose un volume d'impression de 22 x 22 x 25 cm.
 Le suffixe V2 dans Creality 3D Ender-3 V2 est très important car il existe de très nombreuses versions de la Ender-3 depuis son lancement en 2018. Le fabricant a capitalisé sur le nom de son modèle phare en faisant évoluer des éléments comme l’extruder, le plateau, la carte mère ou encore l’écran.
 
 Alors quelles évolutions en regards des précédentes Ender-3 ?
