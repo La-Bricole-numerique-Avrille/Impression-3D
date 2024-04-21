@@ -40,6 +40,7 @@ Un tiroir pour placer vos pièces de rechange et accessoires
 ### Nivellement automatique
 
  * [Creality CR-Touch - Installation et test](https://www.youtube.com/watch?v=8ot5Zq1EAx8)
+ * [Creality CR-Touch Auto Leveling Kit](https://crealityfrance.fr/products/creality-cr-touch-auto-leveling-kit-pas-cher)
 
 ### Plateau magnétique
 
