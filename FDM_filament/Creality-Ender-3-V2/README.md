@@ -28,8 +28,8 @@ Un tiroir pour placer vos pièces de rechange et accessoires
 
 ### Double entrainement axe Z
 
- * [Creality Ender 3 v2 dual z axis upgrade install]
- * 
+ * [Creality Ender 3 v2 dual z axis upgrade install](https://www.youtube.com/watch?v=gTVP3hL3zvU)
+
  ### Double extrudeurs
  
  * [Ender 3 à double extrudeurs](https://www.youtube.com/watch?v=fVF3f2kPgZM)
